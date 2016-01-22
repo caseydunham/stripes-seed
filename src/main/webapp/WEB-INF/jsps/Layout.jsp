@@ -9,7 +9,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-		<title>Pirate Paste</title>
+		<title>Stripes Seed Project</title>
 		<base href="${pageContext.request.scheme}://${pageContext.request.serverName}:${pageContext.request.serverPort}${pageContext.request.contextPath}/">
 
 		<link href="/styles/bootstrap.css" rel="stylesheet">
